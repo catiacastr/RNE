@@ -1,2 +1,0 @@
-# RNE
-Exercício Tecnico
